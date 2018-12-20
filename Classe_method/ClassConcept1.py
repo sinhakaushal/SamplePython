@@ -52,8 +52,12 @@ print(y.a)
 
 
 #Working with Class and Instance Data
-
-
+class myClass:
+    class_attribute = 99
+    def class_method(self):
+        self.instance_attribute = 'I am instance attribute'
+print (myClass.__dict__)
+### ====== STILL TO EXPLORE ABOVE CLASS ############===============
     
        
         
