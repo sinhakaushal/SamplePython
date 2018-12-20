@@ -1,0 +1,38 @@
+total 48
+drwxrwxrwx 0 root root   512 Nov 16 18:01 BOServer
+drwxrwxrwx 0 root root   512 Nov 15 16:46 SAP BO Training 12-Nov-2018
+drwxrwxrwx 0 root root   512 Nov 15 10:33 SAP BI training
+drwxrwxrwx 0 root root   512 Nov 13 10:54 SBOP_BI_PLATFORM_4.2_SP05_CLIENT_TOOLS_WINDOWS_32B_
+drwxrwxrwx 0 root root   512 Nov 13 10:48 O11G Client
+drwxrwxrwx 0 root root   512 Nov 13 10:29 Universal_Installer
+drwxrwxrwx 0 root root   512 Dec 12 15:54 Software
+-rwxrwxrwx 1 root root 21764 Dec  6 22:54 Billing.xlsx
+-rwxrwxrwx 1 root root  2365 Dec  6 05:53 Microsoft Teams.lnk
+-rwxrwxrwx 1 root root  1522 Dec  3 12:51 sqldeveloper - Shortcut.lnk
+-rwxrwxrwx 1 root root  1448 Dec 13 11:01 SQL Server 2014 Management Studio.lnk
+-rwxrwxrwx 1 root root  1379 Nov  2 12:43 TOS_DI-win-x86_64 - Shortcut.lnk
+-rwxrwxrwx 1 root root  1090 Nov 28 11:52 Eclipse Jee 2018-09.lnk
+-rwxrwxrwx 1 root root   282 Nov  1 11:48 desktop.ini
+-rwxrwxrwx 1 root root    53 Dec 13 09:20 TestPython2.txt
+-rwxrwxrwx 1 root root    45 Dec  3 16:17 TestPython.txt
+-rwxrwxrwx 1 root root     0 Dec 13 16:50 abc.txt
+-rwxrwxrwx 1 root root    45 Dec  3 16:17 TestPython.txt
+-rwxrwxrwx 1 root root    53 Dec 13 09:20 TestPython2.txt
+-rwxrwxrwx 1 root root   282 Nov  1 11:48 desktop.ini
+-rwxrwxrwx 1 root root  1076 Dec 13 16:50 abc.txt
+-rwxrwxrwx 1 root root  1090 Nov 28 11:52 Eclipse Jee 2018-09.lnk
+-rwxrwxrwx 1 root root  1379 Nov  2 12:43 TOS_DI-win-x86_64 - Shortcut.lnk
+-rwxrwxrwx 1 root root  1448 Dec 13 11:01 SQL Server 2014 Management Studio.lnk
+-rwxrwxrwx 1 root root  1522 Dec  3 12:51 sqldeveloper - Shortcut.lnk
+-rwxrwxrwx 1 root root  2365 Dec  6 05:53 Microsoft Teams.lnk
+-rwxrwxrwx 1 root root 21764 Dec  6 22:54 Billing.xlsx
+drwxrwxrwx 0 root root   512 Dec 12 15:54 Software
+drwxrwxrwx 0 root root   512 Nov 13 10:29 Universal_Installer
+drwxrwxrwx 0 root root   512 Nov 13 10:48 O11G Client
+drwxrwxrwx 0 root root   512 Nov 13 10:54 SBOP_BI_PLATFORM_4.2_SP05_CLIENT_TOOLS_WINDOWS_32B_
+drwxrwxrwx 0 root root   512 Nov 15 10:33 SAP BI training
+drwxrwxrwx 0 root root   512 Nov 15 16:46 SAP BO Training 12-Nov-2018
+drwxrwxrwx 0 root root   512 Nov 16 18:01 BOServer
+total 48
+New Line appended
+New Line appended
