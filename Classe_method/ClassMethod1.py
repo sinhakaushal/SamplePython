@@ -37,5 +37,4 @@ for iii in  enumerate(lst):
 enum= enumerate(lst)
 print(enum)
 enum_to_list=list(enum)
-print(enum_to_list)   
-    
+print(enum_to_list)    
