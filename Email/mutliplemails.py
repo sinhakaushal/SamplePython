@@ -23,9 +23,9 @@ def sendmail(toaddr,msg):
 #     p=MIMEBase('application','octet-stream')
 #     p.set_payload((attch).read())
 
-    encoders.encode_base64(p)
-    p.add_header('Content-Disposition', "attachment; filename= %s" % fname)
-    main_msg.attach(p)
+#     encoders.encode_base64(p)
+#     p.add_header('Content-Disposition', "attachment; filename= %s" % fname)
+#     main_msg.attach(p)
     txt=main_msg.as_string()
     fromaddr="kaushal.opensource@gmail.com"
     s.sendmail(fromaddr, toaddr, txt)
